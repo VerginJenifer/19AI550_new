@@ -5,7 +5,6 @@
 To develop a flipfrogger game in Unity that jumps over an obstracle and collects coins.
 ### Algorithm:
 ```
-🎮 ALGORITHM: FROG JUMP, OBSTACLE & COIN COLLECTOR GAME (2D UNITY)
 
 1. Create a new 2D Unity Project
 
